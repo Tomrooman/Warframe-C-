@@ -1,0 +1,5 @@
+generateButton(myGrid, content, margin, POS, POSSPAN, ALIGN)
+
+POS = new int[]{row, col}
+POSSPAN = new int[]{row, col} | new int[] {99}
+ALIGN = new string[]{horizontal, vertical} | new string[] {"empty"}

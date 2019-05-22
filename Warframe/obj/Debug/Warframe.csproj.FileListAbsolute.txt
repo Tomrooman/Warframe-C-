@@ -1,0 +1,15 @@
+C:\Users\Tom\Desktop\Tom C#\Warframe\Warframe\bin\Debug\Warframe.exe.config
+C:\Users\Tom\Desktop\Tom C#\Warframe\Warframe\bin\Debug\Warframe.exe
+C:\Users\Tom\Desktop\Tom C#\Warframe\Warframe\bin\Debug\Warframe.pdb
+C:\Users\Tom\Desktop\Tom C#\Warframe\Warframe\obj\Debug\MainWindow.g.cs
+C:\Users\Tom\Desktop\Tom C#\Warframe\Warframe\obj\Debug\App.g.cs
+C:\Users\Tom\Desktop\Tom C#\Warframe\Warframe\obj\Debug\Warframe_MarkupCompile.cache
+C:\Users\Tom\Desktop\Tom C#\Warframe\Warframe\obj\Debug\Warframe_MarkupCompile.lref
+C:\Users\Tom\Desktop\Tom C#\Warframe\Warframe\obj\Debug\MainWindow.baml
+C:\Users\Tom\Desktop\Tom C#\Warframe\Warframe\obj\Debug\Warframe.g.resources
+C:\Users\Tom\Desktop\Tom C#\Warframe\Warframe\obj\Debug\Warframe.Properties.Resources.resources
+C:\Users\Tom\Desktop\Tom C#\Warframe\Warframe\obj\Debug\Warframe.csproj.GenerateResource.cache
+C:\Users\Tom\Desktop\Tom C#\Warframe\Warframe\obj\Debug\Warframe.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\Tom C#\Warframe\Warframe\obj\Debug\Warframe.exe
+C:\Users\Tom\Desktop\Tom C#\Warframe\Warframe\obj\Debug\Warframe.pdb
+C:\Users\Tom\Desktop\Tom C#\Warframe\Warframe\obj\Debug\Warframe.csprojAssemblyReference.cache

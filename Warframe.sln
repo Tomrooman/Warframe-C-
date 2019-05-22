@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warframe", "Warframe\Warframe.csproj", "{EEB3D350-475E-4163-B81C-D505F2FBFDC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEB3D350-475E-4163-B81C-D505F2FBFDC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB3D350-475E-4163-B81C-D505F2FBFDC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB3D350-475E-4163-B81C-D505F2FBFDC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB3D350-475E-4163-B81C-D505F2FBFDC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2972F21-8B91-45D0-9FCD-14E765A37FC3}
+	EndGlobalSection
+EndGlobal
